@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616154239840.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3303390644",
+    "id" : "6E55F10A",
+    "lastKnownWriteTime" : 1621522491,
+    "last_content_update" : 1621522491193,
+    "path" : "~/BEProject/myFunction.R",
+    "project_path" : "myFunction.R",
+    "properties" : {
+        "cursorPosition" : "73,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

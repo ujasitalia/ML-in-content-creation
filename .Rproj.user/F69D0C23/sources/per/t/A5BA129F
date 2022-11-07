@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615788774420.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1398005096",
+    "id" : "A5BA129F",
+    "lastKnownWriteTime" : 1621522489,
+    "last_content_update" : 1621579837579,
+    "path" : "~/BEProject/improved.R",
+    "project_path" : "improved.R",
+    "properties" : {
+        "cursorPosition" : "30,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

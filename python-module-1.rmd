@@ -1,0 +1,22 @@
+---
+title: "python-module 1"
+author: "Ujas Italia"
+date: "16/03/2021"
+output: ioslides_presentation
+---
+
+## What is Python?
+
+- Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+- web development (server-side),
+- software development,
+- mathematics,
+- system scripting.
+
+## Python Syntax
+
+- print("Hello, World!")
+- if 5 > 2:
+    print("Five is greater than two!")
+
+## conclusion

@@ -1,0 +1,63 @@
+---
+title: "ML-module-4"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Train/Test
+Train/Test <br />
+
+In Machine Learning we create models to predict the outcome of certain events <br />
+
+To measure if the model is good enough, we can use a method called Train/Test.
+
+
+## What is Train/Test
+What is Train/Test <br />
+
+Train/Test is a method to measure the accuracy of your model. <br />
+
+It is called Train/Test because you split the the data set into two sets: a training set and a testing set. <br />
+
+You train the model using the training set. <br />
+
+You test the model using the testing set.
+
+## Split Into Train/Test
+Split Into Train/Test <br />
+
+The training set should be a random selection of 80% of the original data. <br />
+
+The testing set should be the remaining 20%. <br />
+
+train_x = x[:80] <br />
+train_y = y[:80] <br />
+
+test_x = x[80:] <br />
+test_y = y[80:]
+
+
+## Display the Training Set
+Display the Training Set <br />
+
+Display the scatter plot with the training set: <br />
+
+Example <br />
+plt.scatter(train_x, train_y) <br />
+plt.show()
+
+
+## Display the Testing Set
+Display the Testing Set <br />
+
+To make sure the testing set is not completely different, we will take a look at the testing set as well. <br />
+
+Example <br />
+plt.scatter(test_x, test_y) <br />
+plt.show()
+
+
+## Conclusion

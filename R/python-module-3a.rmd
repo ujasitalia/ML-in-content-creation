@@ -1,0 +1,40 @@
+---
+title: "python-module-3a"
+output: ioslides_presentation
+---
+
+## Python If ... Else
+Python If ... Else <br />
+Python Conditions and If statements <br />
+Python supports the usual logical conditions from mathematics: <br />
+
+Equals: a == b <br />
+Not Equals: a != b <br />
+Less than: a < b <br />
+Less than or equal to: a <= b <br />
+Greater than: a > b <br />
+Greater than or equal to: a >= b
+
+## Python While Loops
+Python While Loops <br />
+
+Example <br />
+Print i as long as i is less than 6: <br />
+
+i = 1 <br />
+while i < 6: <br />
+  print(i) <br />
+  i += 1
+
+## Python For Loops
+Python For Loops <br />
+A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+
+Example <br />
+Print each fruit in a fruit list: <br />
+
+fruits = ["apple", "banana", "cherry"] <br />
+for x in fruits: <br />
+  print(x)
+  
+## Conclusion

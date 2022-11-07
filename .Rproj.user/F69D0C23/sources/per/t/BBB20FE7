@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621218016843.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3306036805",
+    "id" : "BBB20FE7",
+    "lastKnownWriteTime" : 1615884122,
+    "last_content_update" : 1615884122,
+    "path" : "~/BEProject/R/python-module-1.md",
+    "project_path" : "R/python-module-1.md",
+    "properties" : {
+        "cursorPosition" : "1,48",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

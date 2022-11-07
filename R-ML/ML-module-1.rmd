@@ -1,0 +1,32 @@
+---
+title: "ML-module-1"
+output: ioslides_presentation
+---
+
+## Machine Learning
+What is Machine Learning? <br />
+Machine Learning is making the computer learn from studying data and statistics. <br />
+
+Machine Learning is a step into the direction of artificial intelligence (AI). <br />
+
+Machine Learning is a program that analyses data and learns to predict the outcome.
+
+## Data Set
+Data Set<br />
+In the mind of a computer, a data set is any collection of data. It can be anything from an array to a complete database.<br />
+
+Example of an array:<br />
+
+[99,86,87,88,111,86,103,87,94,78,77,85,86]
+
+## Data Types
+Data Types <br />
+To analyze data, it is important to know what type of data we are dealing with. <br />
+
+We can split the data types into three main categories: <br />
+
+- Numerical <br />
+- Categorical <br />
+- Ordinal
+
+## Conclusion

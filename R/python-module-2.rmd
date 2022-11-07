@@ -1,0 +1,71 @@
+---
+title: "python-module-2"
+output: ioslides_presentation
+---
+
+## Python Data Types
+Python Data Types <br />
+Built-in Data Types <br />
+Text Type:	str <br />
+Numeric Types:	int, float, complex <br />
+Sequence Types:	list, tuple, range <br />
+Mapping Type:	dict <br />
+Set Types:	set, frozenset <br />
+Boolean Type:	bool <br />
+Binary Types:	bytes, bytearray, memoryview <br />
+
+## Python Numbers
+Python Numbers <br />
+- int <br />
+- float <br />
+- complex
+
+Example <br />
+x = 1    # int <br />
+y = 2.8  # float <br />
+z = 1j   # complex
+
+## Strings
+Strings <br />
+Strings in python are surrounded by either single quotation marks, or double quotation marks. <br />
+Example <br />
+print("Hello") <br />
+print('Hello')
+
+## Python Lists
+Python Lists <br />
+Lists are used to store multiple items in a single variable.
+
+Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+
+Lists are created using square brackets: <br />
+Example <br />
+thislist = ["apple", "banana", "cherry"] <br />
+print(thislist)
+
+
+## Tuple
+Tuple <br />
+Tuples are used to store multiple items in a single variable.
+
+Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+
+Example <br />
+thistuple = ("apple", "banana", "cherry") <br />
+print(thistuple)
+
+## Python Dictionaries
+Python Dictionaries <br />
+Dictionaries are used to store data values in key:value pairs.
+
+A dictionary is a collection which is ordered, changeable and does not allow duplicates.
+
+Example <br />
+thisdict = { <br />
+  "brand": "Ford", <br />
+  "model": "Mustang", <br />
+  "year": 1964 <br />
+} <br />
+print(thisdict)
+
+## Conclusion

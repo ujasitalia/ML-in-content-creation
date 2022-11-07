@@ -1,0 +1,34 @@
+---
+title: "python-module-3b"
+output: ioslides_presentation
+---
+
+## Python Functions
+Python Functions <br />
+A function is a block of code which only runs when it is called. <br />
+Creating a Function <br />
+In Python a function is defined using the def keyword: <br />
+
+Example <br />
+def my_function(): <br />
+  print("Hello from a function")
+
+## Python Lambda
+Python Lambda <br />
+A lambda function is a small anonymous function <br />
+
+Example <br />
+Add 10 to argument a, and return the result: <br />
+
+x = lambda a : a + 10 <br />
+print(x(5))
+
+## Python Arrays
+Python Arrays <br />
+Arrays are used to store multiple values in one single variable: <br />
+Example <br />
+Create an array containing car names: <br />
+
+cars = ["Ford", "Volvo", "BMW"]
+
+## Conclusion

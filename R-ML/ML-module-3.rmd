@@ -1,0 +1,42 @@
+---
+title: "ML-module-3"
+output: ioslides_presentation
+---
+
+## Regression
+Regression <br />
+
+The term regression is used when you try to find the relationship between variables.<br />
+In Machine Learning, and in statistical modeling, that relationship is used to predict the outcome of future events.<br />
+There are three types of Regression in Machine Learning: <br />
+
+-Linear Regression <br />
+-Polynomial Regression <br />
+-Multiple Regression
+
+
+## Linear Regression
+Linear Regression <br />
+
+Linear regression uses the relationship between the data-points to draw a straight line through all of them. <br />
+
+This line can be used to predict future values.
+
+
+## Polynomial Regression
+Polynomial Regression<br />
+
+If your data points clearly will not fit a linear regression (a straight line through all data points), it might be ideal for polynomial regression.<br />
+
+Polynomial regression, like linear regression, uses the relationship between the variables x and y to find the best way to draw a line through the data points.
+
+
+## Multiple Regression
+Multiple Regression <br />
+
+Multiple regression is like linear regression, but with more than one independent value, meaning that we try to predict a value based on two or more variables. <br />
+
+In Python we have modules that will do the work for us. Start by importing the Pandas module.
+
+
+## Conclusion
